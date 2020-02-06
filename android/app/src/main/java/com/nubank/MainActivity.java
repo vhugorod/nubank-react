@@ -3,7 +3,7 @@ package com.nubank;
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
 import com.facebook.react.ReactRootView;
-import com.swmansion.gesturehandler.react.RNGestureHandlerEnableRootView;
+import com.swmansion.gesturehandler.react.RNGestureHandlerEnabledRootView;
 
 public class MainActivity extends ReactActivity {
 
@@ -21,7 +21,7 @@ public class MainActivity extends ReactActivity {
     return new ReactActivityDelegate(this, getMainComponentName()) {
       @Override
       protected ReactRootView createRootView() {
-        return new RNGestureHandlerEnableRootView(MainActivity.this);
+        return new RNGestureHandlerEnabledRootView(MainActivity.this);
       }
     };
   }
