@@ -253,8 +253,3 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 ## Contato
 
 Rocketseat - [Github](https://github.com/rocketseat) - **oi@rocketseat.com.br**
-
-## Gerenciamento de projeto 
-
-Testando gerenciamento de projeto com GitHub
-Testando documentacao do usuario
